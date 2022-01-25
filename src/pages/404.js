@@ -1,11 +1,10 @@
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/Layout"
 
-export default function Home() {
+export default function Error() {
   return (
     <Layout>
-      <h1>hello world!</h1>
+      <h1>Error Page</h1>
     </Layout>
   )
 }
