@@ -7,6 +7,7 @@
 <h1 align="center">
   Gatsby's hello-world starter
 </h1>
+<p>Gatsby is fun</p>
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
@@ -103,4 +104,5 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
 # recipes-app-gatsby
